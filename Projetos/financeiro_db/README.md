@@ -46,5 +46,5 @@ ORDER BY → ordenar
 
 📬 Contato
 
-engenheirodedados.luciofabio@gmail.com  
-https://www.linkedin.com/in/lucio-fabio-barbosa-de-lima  
+📧 engenheirodedados.luciofabio@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa)
