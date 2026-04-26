@@ -43,7 +43,7 @@ GROUP BY c.NOME, c.TIPO;
 -- 4. Lançamentos por data
 SELECT * 
 FROM lancamento 
-ORDER BY DATA_LANCAMENTO;
+ORDER BY DATA_LANCAMENTO;   
 
 -- 5. Mostrar apenas despesas
 SELECT 

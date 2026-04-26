@@ -29,4 +29,4 @@ INSERT INTO lancamento (ID_CATEGORIA, DESCRICAO, VALOR, DATA_LANCAMENTO) VALUES
 (12, 'Compra de roupas', 350.00, '2026-04-13'),
 (6, 'Restaurante', 120.50, '2026-04-14'),
 (7, 'Combustível', 180.00, '2026-04-15'),
-(10, 'Viagem', 900.00, '2026-04-16');
+(10, 'Viagem', 900.00, '2026-04-16');   

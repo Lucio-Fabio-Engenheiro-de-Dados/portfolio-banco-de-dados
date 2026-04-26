@@ -1,2 +1,2 @@
 CREATE DATABASE financeiro;
-USE financeiro;
+USE financeiro;  
