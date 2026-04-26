@@ -19,4 +19,5 @@ Este projeto consiste em um banco de dados SQL para gerenciar um sistema de vend
  
  ## Contato
  Email: engenheirodedados.luciofabio@gmail.com
+
 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa)                      )
