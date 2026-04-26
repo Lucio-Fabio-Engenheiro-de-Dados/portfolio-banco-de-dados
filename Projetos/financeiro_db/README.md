@@ -33,10 +33,15 @@ GitHub Web
 Com as consultas você aprende:
 
 SELECT → buscar dados
+
 WHERE → filtrar
+
 JOIN → relacionar tabelas
+
 GROUP BY → agrupar
+
 SUM / AVG / COUNT → cálculos
+
 ORDER BY → ordenar
 
 📬 Contato
