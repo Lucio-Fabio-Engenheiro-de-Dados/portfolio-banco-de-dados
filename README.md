@@ -62,8 +62,8 @@ O objetivo é servir como **portfólio profissional** para destacar competência
 ---
 
 ## 📫 Contato
-- **Email:** engenheirodedados.luciofabio@gmail.com
-- **LinkedIn:** []
+📧 engenheirodedados.luciofabio@gmail.com
+🔗 LinkedIn
 ---
 
 ## 💡 Observações
