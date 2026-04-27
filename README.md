@@ -64,7 +64,7 @@ O objetivo é servir como **portfólio profissional** para destacar competência
 ## 📫 Contato
 📧 engenheirodedados.luciofabio@gmail.com
 
-🔗 LinkedIn
+🔗 [LinkedIn](linkedin.com/in/lúcio-fábio-barbosa)
 ---
 
 ## 💡 Observações
